@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "flopper.h"
 #include <iostream>
 // Constructor with pointers to left and right flopper
